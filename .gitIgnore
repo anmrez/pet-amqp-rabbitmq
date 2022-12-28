@@ -1,0 +1,8 @@
+*/dist
+*/node_modules
+*/test
+*/**/*.spec.ts
+
+# folders
+/assets
+
